@@ -51,6 +51,7 @@ A comprehensive data analytics project to optimize profitability in retail & who
 └── README.md                      # Project documentation
 
 ````
+![image](https://github.com/user-attachments/assets/3b6471cc-4fc8-44a7-82b2-9f49385fb737)
 
 ---
 
